@@ -3,3 +3,4 @@ SE3040  Distributed-Systems
 
 
 LAB01 ----Socket Programming
+LAB02 ----RMI 
