@@ -1,5 +1,5 @@
 # SE3040_Distributed-Systems_LAB
-SE3040  Distributed-Systems
+SE3020  Distributed-Systems
 
 
 LAB01 ----Socket Programming <br>
