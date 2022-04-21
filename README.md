@@ -1,4 +1,4 @@
-# SE3040_Distributed-Systems_LAB
+# SE3020_Distributed-Systems_LAB
 SE3020  Distributed-Systems
 
 
